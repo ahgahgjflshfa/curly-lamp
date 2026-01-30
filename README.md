@@ -32,7 +32,7 @@ skipped, especially those that require a full UI or a web fronted.
 ### Out of scope (for now)
 
 - Projects that primarily require a graphical UI (desktop / mobile).
-- Frontend-heavy web apps (HTML / CSS / JS)
+- Frontend-heavy web apps (HTML / CSS / JS).
 
 ## Project Index
 
@@ -41,8 +41,9 @@ skipped, especially those that require a full UI or a web fronted.
 | Project | Difficulty | Type | Status |
 | :--- | :---: | :---: | :---: |
 | [Bin2Dec](./Beginner/Bin2Dec) | Beginner | CLI | :white_check_mark: |
-| [Json2Csv](./Beginner/Json2Csv) | Beginner | CLI | :construction: |
+| [Json2Csv](./Beginner/Json2Csv) | Beginner | APP | :construction: |
+| [Calculator](./Beginner/Calculator/) | Beginner | APP | :construction: |
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE)
+This project is licensed under the [MIT License](LICENSE).
